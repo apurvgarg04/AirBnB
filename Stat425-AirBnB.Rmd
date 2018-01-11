@@ -6,10 +6,6 @@ output:
 date: "December 18, 2017"
 urlcolor: blue
 ---
-Team Members : <br>
-1. Ankush Agrawal (ankusha2) <br>
-2. Apurv Garg (apurvg2) <br>
-3. Xiao Liu (xiaol5) <br>
 
 ##About the data
 The dataset used for analysis was sourced from Airbnb listings for Chicago from Inside Airbnb [link](http://insideairbnb.com/get-the-data.html). <br>
